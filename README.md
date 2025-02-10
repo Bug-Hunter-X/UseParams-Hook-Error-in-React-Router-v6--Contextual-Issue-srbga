@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle error in React Router v6's `useParams` hook. The error arises from using `useParams` outside the context of a route component, leading to an unclear error message. The solution showcases the proper way to access route parameters, ensuring correct functionality.
